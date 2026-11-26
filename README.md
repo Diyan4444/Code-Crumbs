@@ -1,4 +1,4 @@
-# Shorties ⚡
+# Code-Crumbs
 
 ### I thought to make a small repo related to some basic programs in cpp just for fun, because WHY NOT!
 
